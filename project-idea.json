@@ -1,0 +1,17 @@
+﻿{
+    "features":  [
+
+                 ],
+    "description":  "An autonomous testing agent with multi-node graph architecture: test planning, execution, bug analysis, self-healing locators, and result reporting with conditional routing and Slack integration.",
+    "tech_stack":  [
+                       "sentence-transformers",
+                       "torch",
+                       "numpy",
+                       "pytest",
+                       "pytest-cov"
+                   ],
+    "difficulty":  "advanced",
+    "category":  "qa-ai-automation",
+    "title":  "LangGraph QA Agent",
+    "project_name":  "langgraph-qa-agent"
+}

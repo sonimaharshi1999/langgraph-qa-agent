@@ -1,0 +1,87 @@
+======================================================================
+  langgraph qa agent
+======================================================================
+
+Author: Maharshi Soni
+Category: qa-ai-automation
+Difficulty: advanced
+
+----------------------------------------------------------------------
+DESCRIPTION
+----------------------------------------------------------------------
+The agent executes as a directed graph with five processing nodes and two conditional routing points:
+
+----------------------------------------------------------------------
+TECH STACK
+----------------------------------------------------------------------
+  - sentence-transformers
+  - torch
+  - numpy
+  - pytest
+  - pytest-cov
+
+----------------------------------------------------------------------
+FEATURES
+----------------------------------------------------------------------
+
+----------------------------------------------------------------------
+SAMPLE INPUT
+----------------------------------------------------------------------
+  See README
+
+  Example:
+    See README
+
+----------------------------------------------------------------------
+SAMPLE OUTPUT
+----------------------------------------------------------------------
+  See README
+
+  Example:
+    See README
+
+----------------------------------------------------------------------
+PROJECT STRUCTURE
+----------------------------------------------------------------------
+  .gitignore
+  LICENSE
+  main.py
+  README.md
+  requirements.txt
+  .pytest_cache/.gitignore
+  .pytest_cache/CACHEDIR.TAG
+  .pytest_cache/README.md
+  .pytest_cache/v/cache/lastfailed
+  .pytest_cache/v/cache/nodeids
+  core/bug_analyzer.py
+  core/graph.py
+  core/nlp_engine.py
+  core/reporter.py
+  core/self_healer.py
+  core/state.py
+  core/test_executor.py
+  core/test_planner.py
+  core/__init__.py
+  reports/.gitkeep
+  tests/test_bug_analyzer.py
+  tests/test_executor.py
+  tests/test_graph.py
+  tests/test_main.py
+  tests/test_nlp_engine.py
+  tests/test_planner.py
+  tests/test_reporter.py
+  tests/test_self_healer.py
+  tests/test_state.py
+  tests/__init__.py
+
+----------------------------------------------------------------------
+TEST RESULTS
+----------------------------------------------------------------------
+  Status: PASSED
+  Tests Run: 11
+  Passed: 11
+  Failed: 0
+
+======================================================================
+  Author: Maharshi Soni  |  License: MIT
+======================================================================
