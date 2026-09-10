@@ -1,5 +1,7 @@
 # LangGraph QA Agent
 
+![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 An autonomous, SDET-focused testing agent built with a LangGraph-style graph execution engine. It plans tests, executes them against a simulated DOM, analyzes failures with NLP, automatically heals broken CSS/XPath selectors, and generates structured JSON reports with optional Slack notifications -- all without paid APIs.
 
 ## Overview
